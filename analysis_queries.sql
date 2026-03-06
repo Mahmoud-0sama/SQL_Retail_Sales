@@ -171,4 +171,5 @@ SELECT
 FROM hourly_sale
 GROUP BY shift;
 
+
 -- End of Project
